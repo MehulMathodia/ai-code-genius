@@ -1,0 +1,14 @@
+# Node
+node_modules/
+frontend/src/output.css
+frontend/build/
+.DS_Store
+
+# Python
+backend/__pycache__/
+backend/.env
+backend/venv/
+*.pyc
+
+# Environment Secrets
+.env
